@@ -1,4 +1,4 @@
 roadmap-api
 ===========
 
-API documentation for Roadmap
+API documentation for Roadmap (public beta)
